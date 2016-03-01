@@ -6,23 +6,33 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Start Bootstrap
+title: Spicy Mangos
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Web Developer - Graphic Artist - User Experience Designer
-baseurl: "/startbootstrap-freelancer-jekyll" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+  Produced by KLab Cyscorpions
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://spicy-mangos.com" # the base hostname & protocol for your site
+
+logo: "img/logo.svg"
 
 # Social media profiles - feel free to add more here
-twitter_username: SBootstrap
-github_username:  BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username: Spicy_Mangos
+github_username:  spicymangos
+facebook_username: spicymangosgame
 
 # Address information
-address_street: 3034 Melrose Place
-address_city: Beverly Hills
-address_state: CA
-address_zip: 90201
+address_street: 3/F Bonifacio High Street Central (C2 Building) 7th Avenue Corner 29th Street Bonifacio Global City
+address_city: Taguig
+address_state: Metro Manila
+address_zip: 1634
+
+about_left: >
+  Spicy Mangos is the brand of original games produced by KLab Cyscorpions. Formed in 2013, we are made up of a small team of developers and artists, specializing in mobile game development. 
+about_right: >
+  Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!
+
+about_footer: >
+  Spicy Mangos is the brand of original games produced by KLab Cyscorpions.
 
 # Build settings
 markdown: kramdown

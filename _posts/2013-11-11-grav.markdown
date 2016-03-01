@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "GRAV"
+date:   2013-11-11
+img: img/portfolio/submarine.png
+icon: img/portfolio/icon/grav.png
+modalID: grav
+category: Puzzle Platformer
+googlePlayUrl: https://play.google.com/store/apps/details?id=com.cyscorpions.gravitywell
+appStoreUrl: https://itunes.apple.com/app/id735722087
+---
+The power of gravity is in your hands.
+
+Shoot gravity wells to manipulate platforms and solve multiple puzzle-filled levels!

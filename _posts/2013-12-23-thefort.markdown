@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "The Fort: Zombie Rush"
+date:   2013-12-23
+img: img/portfolio/safe.png
+icon: img/portfolio/icon/thefort.png
+modalID: the-fort
+category: Shooter
+googlePlayUrl: https://play.google.com/store/apps/details?id=com.cyscoenterprise.zombiesniper
+appStoreUrl: https://itunes.apple.com/app/id796779960
+---
+You are a lone man in a sea of zombies. What're you gonna do?
+
+Defend your ground against hordes of zombies, using whatever weapons are available.
