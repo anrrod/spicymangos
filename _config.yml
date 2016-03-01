@@ -16,7 +16,7 @@ url: "http://spicy-mangos.com" # the base hostname & protocol for your site
 
 logo: "img/logo.svg"
 google_play_badge: "img/google-play-badge.png"
-app_store_badge: "img/app-store-badge-svg"
+app_store_badge: "img/app-store-badge.svg"
 
 # Social media profiles - feel free to add more here
 twitter_username: Spicy_Mangos
