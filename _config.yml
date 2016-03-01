@@ -8,6 +8,7 @@
 # Site settings
 title: Spicy Mangos
 email: your-email@domain.com
+copyright: KLab Cyscorpions
 description: > # this means to ignore newlines until "baseurl:"
   Produced by KLab Cyscorpions
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -17,7 +18,6 @@ logo: "img/logo.svg"
 
 # Social media profiles - feel free to add more here
 twitter_username: Spicy_Mangos
-github_username:  spicymangos
 facebook_username: spicymangosgame
 
 # Address information
