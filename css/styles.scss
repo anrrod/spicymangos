@@ -17,10 +17,6 @@
 	width: 100%;
 }
 
-.portfolio-modal .modal-content div {
-    margin-bottom: 30px;
-}
-
 header {
 	background-image: url('../img/banner.png');
 	background-position: center center;
@@ -63,7 +59,7 @@ hr.star-light::after, hr.star-primary::after {
 }
 
 .portfolio-modal .modal-content {
-	padding-top: 40px;
+	padding: 40px 0;
 }
 
 .portfolio-modal .close-modal {
@@ -72,6 +68,8 @@ hr.star-light::after, hr.star-primary::after {
 	top: 15px;
 	right: 15px;
 }
+
+
 
 .portfolio-modal .close-modal .lr {
 	height: 30px;
